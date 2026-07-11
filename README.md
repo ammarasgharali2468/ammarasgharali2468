@@ -6,7 +6,7 @@ I am a Computer Science student at UET focusing on software engineering and digi
 
 ### 💻 I love working with
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/ammarasgharali2468)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](main.cpp)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Databases](https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
